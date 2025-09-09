@@ -1,4 +1,4 @@
-# 🛡️ VPN Guard Universal
+# 🛡️ VPN Guard
 
 A lightweight **VPN security toolkit for Linux** that protects against IP leaks, DNS leaks, and accidental exposure when your VPN drops.  
 Supports **WireGuard**, **OpenVPN**, and other VPN apps that create network interfaces (`wg*`, `tun*`, `ppp*`).  
@@ -25,20 +25,20 @@ No dependencies. No pip installs. Pure Python + iptables + sysctl. Works on most
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/vpn-guard-universal.git
-cd vpn-guard-universal
+git clone https://github.com/ashardian/vpn-guard.git
+cd vpn-guard
 ````
 
 Make the script executable:
 
 ```bash
-chmod +x vpn_guard_universal.py
+chmod +x vpn_guard.py
 ```
 
 Run with root:
 
 ```bash
-sudo ./vpn_guard_universal.py
+sudo ./vpn_guard.py
 ```
 
 ---
@@ -120,7 +120,7 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ## 👨‍💻 Author
 
-Created by [Your Name](https://github.com/ashardian)
+Created by [Ashar Dian](https://github.com/ashardian)
 Feel free to fork, improve, and share 🚀
 
 ```
