@@ -1,4 +1,3 @@
-````markdown
 # 🛡️ VPN Guard Universal
 
 A lightweight **VPN security toolkit for Linux** that protects against IP leaks, DNS leaks, and accidental exposure when your VPN drops.  
