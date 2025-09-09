@@ -122,5 +122,3 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 Created by [Ashar Dian](https://github.com/ashardian)
 Feel free to fork, improve, and share 🚀
-
-```
