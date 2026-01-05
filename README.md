@@ -25,7 +25,7 @@ No dependencies. No pip installs. Pure Python + iptables + sysctl. Works on most
 Clone the repo:
 
 ```bash
-git clone https://github.com/ashardian/vpn-guard.git
+git clone https://github.com/ashardian/Vpn-Guard.git
 cd vpn-guard
 ````
 
@@ -108,7 +108,7 @@ All actions are logged to:
 ## 🤝 Contributing
 
 Pull requests are welcome!
-If you find a bug or want a feature, open an [issue](https://github.com/yourusername/vpn-guard-universal/issues).
+If you find a bug or want a feature, open an [issue](https://github.com/ashardian/Vpn-Guard-universal/issues).
 
 ---
 
